@@ -16,6 +16,9 @@ namespace Salary
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
+
+            //comm.
+            int a;
         }
     }
 }
