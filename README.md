@@ -1,4 +1,0 @@
-Salary
-======
-
-Salary Project
